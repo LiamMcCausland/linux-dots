@@ -1,0 +1,20 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10145dbd1dd000174387888200000079710016
+clientId2=10145dbd1dd000174387954300000012110005
+clientId3=10145dbd1dd000174387641700000037940004
+count=3
+program1=firefox
+program2=/usr/lib/DiscoverNotifier
+program3=/usr/lib/kscreen_osd_service
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10145dbd1dd000174387888200000079710016
+restartCommand2=/usr/lib/DiscoverNotifier,-session,10145dbd1dd000174387954300000012110005_1743916160_702594
+restartCommand3=/usr/lib/kscreen_osd_service,-session,10145dbd1dd000174387641700000037940004_1743916160_702887
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=liam
+userId2=liam
+userId3=liam

@@ -1,0 +1,6 @@
+[Libinput][1267][32][Elan TrackPoint]
+NaturalScroll=false
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+XLbInptNaturalScroll=true
