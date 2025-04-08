@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="715">
+  <name>Wallpaper Engine Kde Plugin [qt6]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>verismei</author>
+  <homepage>https://store.kde.org/p/2194089</homepage>
+  <licence></licence>
+  <version>0.5.4</version>
+  <rating>50</rating>
+  <downloads>13103</downloads>
+  <installedfile>/home/liam/.local/share/plasma/wallpapers/com.github.catsout.wallpaperEngineKde/</installedfile>
+  <id>2194089</id>
+  <releasedate>2024-11-29</releasedate>
+  <summary>&lt;h2>Wallpaper Engine for Plasma 6 (types: video, web &amp;amp; &lt;em>scene via seperate plugin-lib&lt;/em>)&lt;/h2>
+
+&lt;ol>
+&lt;li>get Wallpaper Engine (installed on Steam)&lt;/li>
+&lt;li>Subscribe to wallpapers (Steam Workshop)&lt;/li>
+&lt;li>Select &amp;gt;steamlibrary folder&amp;lt; containing 'steamapps' where WE is installed:&lt;/li>
+&lt;/ol>
+
+&lt;p>Default Steam library path on Linux: ~/.local/share/Steam
+Default Steam library path on Steam-Deck: /home/deck/.steam/steam
+(&amp;gt;&amp;gt; not found? try 'show hidden files' and / or copy / paste path in file chooser)&lt;/p>
+
+&lt;ul>
+&lt;li>if some wallpapers dont run ('plugin-lib not found'):&lt;/li>
+&lt;/ul>
+
+&lt;ol>
+&lt;li>install extra plugin-lib via QT6-package (deb, arch, steamdeck; precompiled): https://github.com/slynobody/SteamOS-wallpaper-engine-kde-plugin
+or&lt;/li>
+&lt;li>compile extra plugin-lib yourself: https://github.com/catsout/wallpaper-engine-kde-plugin&lt;/li>
+&lt;/ol>
+
+&lt;ul>
+&lt;li>if some wallpapers have errors:&lt;/li>
+&lt;/ul>
+
+&lt;ol>
+&lt;li>downgrade WE 'to previous' in steam (app, properties, "beta")&lt;/li>
+&lt;/ol>
+
+&lt;ul>
+&lt;li>If a wallpaper crash your Desktop / Plasma
+&amp;gt;&amp;gt; Remove WallpaperFilePath line in ~/.config/plasma-org.kde.plasma.desktop-appletsrc and restart KDE to fix.&lt;/li>
+&lt;/ul>
+
+&lt;hr />
+
+&lt;p>Dependecies.
+* arch: gstreamer-vaapi gst-plugin-pipewire gst-plugins-bad-libs gst-plugins-good gst-plugins-ugly mpv python-websockets qt6-websockets
+* deb: gstreamer1.0-libav qml-module-qtwebchannel libgstreamer-plugins-bad1.0-0 gstreamer1.0-plugins-ugly gstreamer1.0-plugins-bad gir1.2-gst-plugins-bad-1.0 python3-websockets libmpv2 libqt6websockets6 qml6-module-qtwebsockets&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/78/78/79/2194089/proxy-image1-1.jpeg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/78/78/79/2194089/proxy-image1-1.jpeg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcyNDQ4NjgzOSwibyI6IjEiLCJzIjoiN2I1Yzk1YTJjZTEzMzI3NGQ4ZmQyYTk2MDFmMWY4MzVhYWMxYzNhYjU2MGZlOWRkYTg0MDM3ZDhkNzE3YzM5ZTM4MWE5YjMwMDljOGZiODA0ZTdhMzg3NDQ0NjE5NzVmZDI5YmU4ZTBjZWM2OGNkNGJlNDIyYzJkYjEzMjc1NzEiLCJ0IjoxNzQzOTE5NjA3LCJzdGZwIjpudWxsLCJzdGlwIjoiNTAuNzEuMjQ5LjQ1In0.ULeR_vqMtyzxXlKZH8bht_L127bOZPBO6N1MCPB0G8c/com.github.catsout.wallpaperEngineKde.tar.gz</payload>
+  <tags>linux,gplv2,efi,extension,kde,kde-6,wallpaper-plugin,unix,plasma,plasma##majorversion=6</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

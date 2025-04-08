@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/liam/kde-rice/background.jpg" added="2025-04-05T05:23:48.973000Z" modified="2025-04-05T05:30:52.094000Z" visited="2025-04-05T05:30:52.094000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2025-04-05T05:23:48.973000Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-04-05T05:30:52.094000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/liam/Downloads/forceblur-0.6.1.kwinscript" added="2025-04-05T05:33:03.987820Z" modified="2025-04-05T05:44:57.967000Z" visited="2025-04-05T05:44:57.967000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-04-05T05:33:03.987824Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-04-05T05:44:57.967000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/liam/Pictures/arch-application-launcher.png" added="2025-04-05T18:05:54.471051Z" modified="2025-04-05T18:06:09.131000Z" visited="2025-04-05T18:06:09.131000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-04-05T18:05:54.810399Z" count="2"/>
+        <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2025-04-05T18:06:09.131000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://discordapp.com/handoff?rpc=6463&amp;key=1a86eca1-314f-4159-9119-59ef6eb09c8e" added="2025-04-05T18:09:31.046000Z" modified="2025-04-05T18:09:31.046000Z" visited="2025-04-05T18:09:31.046000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2025-04-05T18:09:31.046000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/" added="2025-04-05T18:34:06.344000Z" modified="2025-04-05T18:34:06.344000Z" visited="2025-04-05T18:34:06.344000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2025-04-05T18:34:06.344000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.yakuake.desktop" added="2025-04-05T19:03:39.698000Z" modified="2025-04-05T19:03:39.698000Z" visited="2025-04-05T19:03:39.698000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2025-04-05T19:03:39.698000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://com.valvesoftware.steam.desktop" added="2025-04-06T04:44:28.450000Z" modified="2025-04-06T04:44:28.450000Z" visited="2025-04-06T04:44:28.450000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2025-04-06T04:44:28.450000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/slynobody/SteamOS-wallpaper-engine-kde-plugin" added="2025-04-06T05:07:26.420000Z" modified="2025-04-06T05:07:26.420000Z" visited="2025-04-06T05:07:26.420000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2025-04-06T05:07:26.420000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

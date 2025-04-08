@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Layan color schemes</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325239</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>158166</downloads>
+  <installedfile>/home/liam/.local/share/color-schemes/Layan.colors</installedfile>
+  <installedfile>/home/liam/.local/share/color-schemes/LayanLight.colors</installedfile>
+  <id>1325239</id>
+  <releasedate>2022-02-13</releasedate>
+  <summary>&lt;h2>Layan modern and elegant design theme for kde desktop&lt;/h2>
+
+&lt;p>&lt;b>gtk theme&lt;/b>: Layan&lt;/p>
+
+&lt;h2>&lt;a href="https://www.pling.com/p/1309214/">https://www.pling.com/p/1309214/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>Icon theme&lt;/b>: Tela icon theme&lt;/p>
+
+&lt;h2>&lt;a href="https://www.pling.com/p/1279924/">https://www.pling.com/p/1279924/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>Wallpaper&lt;/b>: Layan
+&lt;a href="https://www.pling.com/p/1309218/">https://www.pling.com/p/1309218/&lt;/a>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY0NDc2MDQzNSwibyI6IjEiLCJzIjoiYWFlMDU0NGZhYWU5NjVhOTU3Y2ExM2IzOGRhNWNjYzRmM2Q5Mzc0MTQwNmJhYzA4MDRlNzliMjVjNDdlMjdjYzlkYjk5ZDM1NjIyZmZhYTJlZTM1YmQ2YjM1MjUxNzMxNDVmN2NhMWY1NmUwMjI3ZWU4NDQxNjI3MDU0ZTFkZTYiLCJ0IjoxNzQzODM0NTY0LCJzdGZwIjpudWxsLCJzdGlwIjoiNTAuNzEuMjQ5LjQ1In0.feM0dfqRT--mivpUWV7PzA3od0nxuVECwaGJgp4X63k/Layan.tar.gz</payload>
+  <tags>unix,linux,colorscheme,theme,plasma,original-product,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

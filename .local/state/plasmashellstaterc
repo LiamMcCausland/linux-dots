@@ -1,0 +1,12 @@
+[General]
+SystemInstallDate=2025-04-04
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/arch-application-launcher.png
+Recent URLs[$e]=file:$HOME/Pictures/
+
+[KickerRunnerManager]
+LaunchCounts=1 exec:///usr/bin/ghostty,1 krunner_systemsettings_kcm_mouse,2 krunner_systemsettings_kcm_wallpaper,2 krunner_systemsettings_kcm_about-distro,4 exec:///usr/bin/konsole,1 exec:///usr/bin/plasma-discover,1 krunner_systemsettings_kcm_lookandfeel,1 browsertabs_4,2 exec:///usr/bin/plasma-welcome,12 exec:///usr/bin/kitty,1 exec:///usr/bin/kde_wacom_tabletfinder,1 krunner_systemsettings_kcm_kwin_scripts,1 exec:///usr/bin/flatpak run --branch=stable --arch=x86_64 --command=yakuake org.kde.yakuake
+
+[KickerRunnerManager][History]
+dc8a955f-ca8a-41a6-b24b-f439f0f24ea7=kitt,disco,discord,disc,ki,yak,about,steam,Yakuake,Yak,wall,wallpaper,scrol,kwin,k,term,scripts,kon,theme,gho,themes,kons,scroll

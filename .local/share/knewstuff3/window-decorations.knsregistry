@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="717">
+  <name>Layan aurorae theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325238</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>441261</downloads>
+  <installedfile>/home/liam/.local/share/aurorae/themes/Layan/*</installedfile>
+  <id>1325238</id>
+  <releasedate>2024-09-10</releasedate>
+  <summary>&lt;h2>Layan modern and elegant design theme for kde desktop&lt;/h2>
+
+&lt;p>&lt;b>gtk theme&lt;/b>: Layan&lt;/p>
+
+&lt;h2>&lt;a href="https://www.pling.com/p/1309214/">https://www.pling.com/p/1309214/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>Icon theme&lt;/b>: Tela icon theme&lt;/p>
+
+&lt;h2>&lt;a href="https://www.pling.com/p/1279924/">https://www.pling.com/p/1279924/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>Wallpaper&lt;/b>: Layan
+&lt;a href="https://www.pling.com/p/1309218/">https://www.pling.com/p/1309218/&lt;/a>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325238/50fba2e9d2e843b351b59c52c1c91df53a8d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325238/50fba2e9d2e843b351b59c52c1c91df53a8d.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcyNTkzNjI0NiwibyI6IjEiLCJzIjoiMDYwZDkxMDM5ODRmMjk2ZjZhZjk3NmMzZWRkNzU5ZDRjZjVmOWNkNGFmZjVhYTc0ZTcxYzg1Y2Y4MzU2M2M0NDZhMDlmNDUwNzgyMTUxNTRjYTAyMjA4MTY3NzM0MDkyNDhiYTFhMWQ5YTE5ZWJjYzFjMzVmNWQyNGRkZWIxOTAiLCJ0IjoxNzQzODM0NDgzLCJzdGZwIjpudWxsLCJzdGlwIjoiNTAuNzEuMjQ5LjQ1In0.4184NuinY0-L7junkUFb6pAALxh1XBn3U9I5za6b0xM/Layan.tar.xz</payload>
+  <tags>linux,gplv3,kde,original-product,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="717">
+  <name>Monochrome KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>pwyde</author>
+  <homepage>https://store.kde.org/p/2143843</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>12660</downloads>
+  <installedfile>/home/liam/.local/share/aurorae/themes/MonochromeBlur/*</installedfile>
+  <installedfile>/home/liam/.local/share/aurorae/themes/Monochrome/*</installedfile>
+  <id>2143843</id>
+  <releasedate>2024-04-03</releasedate>
+  <summary>&lt;p>A dark theme inspired by black and white photography.&lt;/p>
+
+&lt;p>See the &lt;a href="https://gitlab.com/pwyde/monochrome-kde">project&lt;/a> page for more information and recommendations.&lt;/p>
+
+&lt;p>Theme is based on the original work by &lt;a href="https://github.com/PapirusDevelopmentTeam">Papirus Development Team&lt;/a> and &lt;a href="https://www.pling.com/u/x-varlesh-x/">Alexey Varfolomeev&lt;/a> which can be found &lt;a href="https://www.pling.com/p/1229137/">here&lt;/a>.&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/52/00/61/2143843/preview.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/52/00/61/2143843/preview.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMjE1NTYyNCwibyI6IjEiLCJzIjoiM2YxNWRhZTNkZmY3YjUyMDE3MjhiNTdjMTc2MjExYWQ0ZDQ1ZGM4M2IyYjNhYjg5NjA1YWU0ZWQ3MTEwODFjM2ZmMmU1NDAxZGFiN2U0MWQwMTdmMzI5MGM2ODU5MWM3MWRiZTAyZGU3ODA4ZTFiYmIzMzUzNWFhYWNiMDU1YWIiLCJ0IjoxNzQzODMzOTM3LCJzdGZwIjpudWxsLCJzdGlwIjoiNTAuNzEuMjQ5LjQ1In0.NNyaTaCubRLfm3snJm9jcVFWr1WM1SEbIXdv207XURc/monochrome-aurorae.tar.gz</payload>
+  <tags>auroare,monochrome,linux,kde,dark,greyscale,gplv3,theme,plasma,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,2 @@
+RUNTIME_PM_ON_AC=auto
+RUNTIME_PM_ON_BAT=auto

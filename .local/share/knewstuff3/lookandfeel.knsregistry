@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="722">
+  <name>Monochrome KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>pwyde</author>
+  <homepage>https://store.kde.org/p/2143824</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>8078</downloads>
+  <installedfile>/home/liam/.local/share/plasma/look-and-feel/Monochrome/</installedfile>
+  <id>2143824</id>
+  <releasedate>2024-04-10</releasedate>
+  <summary>&lt;p>A dark theme inspired by black and white photography.&lt;/p>
+
+&lt;p>See the &lt;a href="https://gitlab.com/pwyde/monochrome-kde">project&lt;/a> page for more information and recommendations.&lt;/p>
+
+&lt;p>Theme is based on the original work by &lt;a href="https://github.com/PapirusDevelopmentTeam">Papirus Development Team&lt;/a> and &lt;a href="https://www.pling.com/u/x-varlesh-x/">Alexey Varfolomeev&lt;/a> which can be found &lt;a href="https://www.pling.com/p/1229162/">here&lt;/a>.&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/52/00/61/2143824/desktop1-1920x1080.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/52/00/61/2143824/desktop1-1920x1080.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMjc3NDEyOSwibyI6IjEiLCJzIjoiZjk1N2FjMDRkMDg4YmU0ZDBhMWI0YjU1NGVlZTY4NjFjNWM5NDVlNjFiOTg4ZGQ4NTMyMjFhZTMzYTllMzU2NTI2NmE3NDBlMWQ5MzNlNjAwNTI1Zjg0NWM2YzJmYzg0YjYwYmVmMjkxMjhkOTdhNDA3NjRiMTI3MTFhMTc3NzUiLCJ0IjoxNzQzODMzODk3LCJzdGZwIjpudWxsLCJzdGlwIjoiNTAuNzEuMjQ5LjQ1In0.jAO0ILd_98PcycZTajPz2Qg8-quCgLyj_pruv3UZsOY/monochrome-look-and-feel.tar.gz</payload>
+  <tags>unix,kde,gplv3,greyscale,dark,linux,monochrome,plasma,plasma##majorversion=6,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="722">
+  <name>Layan look and feel theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325243</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>88</rating>
+  <downloads>536733</downloads>
+  <installedfile>/home/liam/.local/share/plasma/look-and-feel/com.github.vinceliuice.Layan/</installedfile>
+  <id>1325243</id>
+  <releasedate>2025-02-12</releasedate>
+  <summary>&lt;h2>Layan modern and elegant design theme for kde desktop&lt;/h2>
+
+&lt;p>For better experience you need this
+&lt;b>kvantum theme&lt;/b>: Layan &lt;/p>
+
+&lt;h2>&lt;a href="https://www.pling.com/p/1325246/">https://www.pling.com/p/1325246/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>gtk theme&lt;/b>: Layan&lt;/p>
+
+&lt;h2>&lt;a href="https://www.pling.com/p/1309214/">https://www.pling.com/p/1309214/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>Icon theme&lt;/b>: Tela icon theme&lt;/p>
+
+&lt;h2>&lt;a href="https://www.pling.com/p/1279924/">https://www.pling.com/p/1279924/&lt;/a>&lt;/h2>
+
+&lt;p>&lt;b>Wallpaper&lt;/b>: Layan
+&lt;a href="https://www.pling.com/p/1309218/">https://www.pling.com/p/1309218/&lt;/a>&lt;/p>
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczOTM4MzA2MiwibyI6IjEiLCJzIjoiNDk2MDg4ZWJlZDViYWY0Y2U4Y2I2Y2EzYjU5Yjc5NDhmMTY4ZGM1Y2IzNDk5NzUzN2ViOTBmZTIzYjVmZDk2ODU1NmYxYjYwNjYwYjAyYzM4YTIzMzZkNWNjNzI0Y2VlNzQyOWI1OTU0MGNiYzY0YjYyMDk3YzdlZjlhNjMzM2YiLCJ0IjoxNzQzODM0NTA5LCJzdGZwIjpudWxsLCJzdGlwIjoiNTAuNzEuMjQ5LjQ1In0.AC-95qk4mqlZ1f7epRZtUtyDP1YDfwADowrUrhEQsrc/com.github.vinceliuice.Layan.tar.gz</payload>
+  <tags>theme,plasma,plasma##majorversion=6,original-product,linux,kde,gplv3,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

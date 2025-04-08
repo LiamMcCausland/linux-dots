@@ -1,0 +1,2 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8"><pre><span class="n">CPU_ENERGY_PERF_POLICY_ON_AC</span><span class="o">=</span><span class="n">balance_performance</span>
+<span class="hll"><span class="n">CPU_ENERGY_PERF_POLICY_ON_BAT</span><span class="o">=</span><span class="n">balance_performance</span></span></pre>
